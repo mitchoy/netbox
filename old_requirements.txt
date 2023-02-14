@@ -1,3 +1,5 @@
 django-rest-swagger
 psycopg2
 pycrypto
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
+djangorestframework>=3.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
