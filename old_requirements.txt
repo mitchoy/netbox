@@ -1,3 +1,4 @@
 django-rest-swagger
 psycopg2
 pycrypto
+django>=4.2.16 # not directly required, pinned by Snyk to avoid a vulnerability
