@@ -1,3 +1,4 @@
 django-rest-swagger
 psycopg2
 pycrypto
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
